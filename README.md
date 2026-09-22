@@ -1,3 +1,4 @@
+```
 # Ex04 Simple Calculator - React Project
 ## Date:31-08-2026
 ## Name : Harrish P
@@ -559,3 +560,4 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
+```
